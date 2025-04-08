@@ -1,3 +1,5 @@
+## About Me
+
 Hello! I'm finishing a level 8 software development degree in Maynooth University in May 2025. I'm a passionate software developer with a solid academic foundation and hands-on experience across the full stack. Below you'll find the modules I've completed and the skills I've developed, alongside links to some of the projects I've worked on.
 
 ---
@@ -22,11 +24,11 @@ Hello! I'm finishing a level 8 software development degree in Maynooth Universit
 
 | Language      | Proficiency         |
 |---------------|---------------------|
-| Java          |                     |
-| JavaScript    |                     |
+| Java          | Intermediate        |
+| JavaScript    | Intermediate        |
 | Python        | Intermediate        |
-| HTML & CSS    |                     |
-| SQL           |                     |
+| HTML & CSS    | Intermediate        |
+| SQL           | Intermediate        |
 
 ---
 
@@ -44,19 +46,19 @@ Hello! I'm finishing a level 8 software development degree in Maynooth Universit
 
 | Technology     | Proficiency         |
 |----------------|---------------------|
-| Node.js        |                     |
+| Node.js        | Used in projects    |
 | Express.js     | Used in projects    |
-| PostgreSQL     |                     |
+| PostgreSQL     | Used in projects    |
 
 ---
 
 ### 🧰 Tools & IDEs
 
-| Tool           | Notes               |
-|----------------|---------------------|
-| VS Code        |                     |
-| Eclipse        |                     |
-| PyCharm        |                     |
+| Tool           |
+|----------------|
+| VS Code        |
+| Eclipse        |                    
+| PyCharm        |                    
 
 ---
 
