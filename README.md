@@ -1,4 +1,3 @@
-
 Hello! I'm finishing a level 8 software development degree in Maynooth University in May 2025. I'm a passionate software developer with a solid academic foundation and hands-on experience across the full stack. Below you'll find the modules I've completed and the skills I've developed, alongside links to some of the projects I've worked on.
 
 ---
@@ -20,38 +19,62 @@ Hello! I'm finishing a level 8 software development degree in Maynooth Universit
 ## 🛠️ Technical Skills
 
 ### 🧑‍💻 Programming Languages
-- Java       |
-- JavaScript |
-- Python     |--->(Intermediate)
-- HTML & CSS |
-- SQL        |
+
+| Language      | Proficiency         |
+|---------------|---------------------|
+| Java          |                     |
+| JavaScript    |                     |
+| Python        | Intermediate        |
+| HTML & CSS    |                     |
+| SQL           |                     |
+
+---
 
 ### 🌐 Frontend
-- React     |--->(Intermediate)
-- Bootstrap |--->(Intermediate)
-- Axios     |--->(Used in projects)
+
+| Tool / Library | Proficiency         |
+|----------------|---------------------|
+| React          | Intermediate        |
+| Bootstrap      | Intermediate        |
+| Axios          | Used in projects    |
+
+---
 
 ### 🖥️ Backend
-- Node.js    |
-- Express.js |---> (Used in projects)
-- PostgreSQL |
+
+| Technology     | Proficiency         |
+|----------------|---------------------|
+| Node.js        |                     |
+| Express.js     | Used in projects    |
+| PostgreSQL     |                     |
+
+---
 
 ### 🧰 Tools & IDEs
-- VS Code
-- Eclipse
-- PyCharm
 
-### 🗃️ Version Control / Project Management / Design
-- Git & GitLab |--->(Intermediate)
-- Jira         |--->(Intermediate)
-- Figma        |--->(Used for projects)
+| Tool           | Notes               |
+|----------------|---------------------|
+| VS Code        |                     |
+| Eclipse        |                     |
+| PyCharm        |                     |
+
+---
+
+### 🗃️ Version Control / PM / Design
+
+| Tool           | Proficiency         |
+|----------------|---------------------|
+| Git & GitLab   | Intermediate        |
+| Jira           | Intermediate        |
+| Figma          | Used in projects    |
 
 ---
 
 ## 📌 Projects
 
-### [Music Project](https://github.com/Mark-T5/music-project)
+### [🎵 Music Project](https://github.com/Mark-T5/music-project)
 A music app that includes both frontend and backend components. This project demonstrates my ability to build full-stack applications, including the frontend user interface and backend logic.
 
-### [Snake Game](Another_Project/)
+### [🐍 Snake Game](Another_Project/)
 A description of your second project. Add details about the project’s functionality and its significance.
+
