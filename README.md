@@ -77,6 +77,6 @@ Hello! I'm finishing a level 8 software development degree in Maynooth Universit
 ### [🎵 Music Project](https://github.com/Mark-T5/music-project)
 A music app that includes both frontend and backend components. This project demonstrates my ability to build full-stack applications, including the frontend user interface and backend logic.
 
-### [🐍 Snake Game](Another_Project/)
+### [🐍 Snake Game](https://github.com/Mark-T5/snake-game)
 A description of your second project. Add details about the project’s functionality and its significance.
 
