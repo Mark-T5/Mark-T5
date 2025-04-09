@@ -78,5 +78,8 @@ Hello! I'm finishing a level 8 software development degree in Maynooth Universit
 A music app that includes both frontend and backend components. This project demonstrates my ability to build full-stack applications, including the frontend user interface and backend logic.
 
 ### [🐍 Snake Game](https://github.com/Mark-T5/snake-game)
-A description of your second project. Add details about the project’s functionality and its significance.
+A Python-based game built using the turtle module. This project demonstrates my ability to implement object-oriented programming, game logic, and screen-based animation using only core Python libraries.
+
+### [☀️ Weather App](https://github.com/Mark-T5/weather-app)
+A front-end weather dashboard built with HTML, CSS, and JavaScript. This project demonstrates my ability to create interactive, multi-page web applications with dynamic UI updates and local data handling.
 
