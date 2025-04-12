@@ -83,3 +83,6 @@ A Python-based game built using the turtle module. This project demonstrates my 
 ### [☀️ Weather App](https://github.com/Mark-T5/weather-app)
 A front-end weather dashboard built with HTML, CSS, and JavaScript. This project demonstrates my ability to create interactive, multi-page web applications with dynamic UI updates and local data handling.
 
+### [👥 Therapist Client Management](https://github.com/Mark-T5/therapist-client-management)
+A full-stack application for managing therapist-client relationships, including appointment tracking and session notes. This project demonstrates my ability to build CRUD functionality and structure real-world data in a meaningful way.
+
