@@ -1,5 +1,7 @@
 ## About Me
 
+## Account Check!
+
 Hello! I'm finishing a level 8 software development degree in Maynooth University in May 2025. I'm a passionate software developer with a solid academic foundation and hands-on experience across the full stack. Below you'll find the modules I've completed and the skills I've developed, alongside links to some of the projects I've worked on.
 
 ---
